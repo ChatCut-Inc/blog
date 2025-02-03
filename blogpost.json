@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "why-documentaries-edit-on-transcripts-first",
+    "title": "Why Documentaries Edit on Transcripts First",
+    "date": "Oct 1, 2025",
+    "author": "Jane Doe",
+    "excerpt": "Sorting out the logic on paper can save hours of guesswork in the edit suite.",
+    "tags": ["Documentary", "Paper Edit"],
+    "content": "Documentary editing often starts with transcripts because it's easier to visualize the story flow...\n(Full article text here. You can write paragraphs, insert line breaks, etc.)"
+  },
+  {
+    "slug": "the-power-of-broll-in-storytelling",
+    "title": "The Power of B-Roll in Storytelling",
+    "date": "Sep 15, 2025",
+    "author": "John Smith",
+    "excerpt": "B-roll is much more than filler; it's an essential storytelling tool.",
+    "tags": ["Filmmaking", "B-roll"],
+    "content": "B-roll footage does more than cover jump cuts—it's critical for setting tone, adding context, and maintaining audience engagement...\n(Full article text here)"
+  },
+  {
+    "slug": "paper-edit-workflow-best-practices",
+    "title": "Paper Edit Workflow: Best Practices",
+    "date": "Aug 28, 2025",
+    "author": "Alex Johnson",
+    "excerpt": "Learn how pro editors craft their stories on paper (or in text) before ever touching the timeline.",
+    "tags": ["Paper Edit", "Editing Tips"],
+    "content": "Pre-editing your footage with transcripts—known as paper editing—helps you identify the structure and flow of your documentary or interview piece...\n(Full article text here)"
+  },
+  {
+    "slug": "ai-assistant-editing-faq",
+    "title": "Your AI Assistant Editing FAQ",
+    "date": "Jul 10, 2025",
+    "author": "Sarah Lee",
+    "excerpt": "Short answers to the most common questions we get about ChatCut and AI editing assistants.",
+    "tags": ["AI", "Editing Tech", "FAQ"],
+    "content": "Below are the top questions we get from new editors trying ChatCut's AI assistant...\n(Full article text here)"
+  }
+]
