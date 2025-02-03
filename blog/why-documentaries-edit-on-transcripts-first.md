@@ -13,7 +13,7 @@ Here is an updated version with more blog-like content, including an image and r
 # Why Documentaries Edit on Transcripts First
 ## Sort out the logic on paper to save time in the edit suite
 
-![Documentary filmmaker reviewing transcripts](https://via.placeholder.com/800x450)
+![Documentary filmmaker reviewing transcripts](https://s39940.pcdn.co/wp-content/uploads/2021/08/editing-tips-secrets.jpg)
 
 Documentary editing often starts with transcripts because it's easier to visualize the story flow without getting distracted by visuals. By reading through the spoken words, you can quickly identify key moments, themes, and potential gaps in your narrative.
 
